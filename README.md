@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa eaí, meu nome é Gabriel e esse é meu Gitgub</h1>
+<h1 align="center">👋 Opa eaí, meu nome é Gabriel e esse é meu Github</h1>
 
 <p align="center">
   🌱 Estudante Segurança da Informação e Tecnologias<br>
