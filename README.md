@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6105340" style='border:none;'></iframe>
+![TryHackMe]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6105340")
 
