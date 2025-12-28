@@ -8,7 +8,9 @@
 ---
 
 ### 🛡️ TryHackMe
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6105340)](https://tryhackme.com/p/6105340)
+
+[![TryHackMe Badge](assets/tryhackme.png)](https://tryhackme.com/p/6105340)
+
 
 ---
 
