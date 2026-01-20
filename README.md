@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gab-tx" />
 </p>
 
 ---
